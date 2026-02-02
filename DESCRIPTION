@@ -1,0 +1,15 @@
+Package: MATH4753Spring26BENNYTRUETT
+Type: Package
+Title: MATH4753 functions and scripts
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Benny", "Truett",
+      email = "benny.tru@ou.edu",
+      role = c("aut", "cre")
+    )
+  )
+Description: The one and only MATH4753 package.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
