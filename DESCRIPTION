@@ -13,3 +13,5 @@ Description: The one and only MATH4753 package.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/bennytruett/MATH4753Spring26BENNYTRUETT
+BugReports: https://github.com/bennytruett/MATH4753Spring26BENNYTRUETT/issues
