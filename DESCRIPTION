@@ -15,3 +15,4 @@ Encoding: UTF-8
 LazyData: true
 URL: https://github.com/bennytruett/MATH4753Spring26BENNYTRUETT
 BugReports: https://github.com/bennytruett/MATH4753Spring26BENNYTRUETT/issues
+RoxygenNote: 7.3.3
