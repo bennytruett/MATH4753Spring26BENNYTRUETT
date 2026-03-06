@@ -16,3 +16,6 @@ LazyData: true
 URL: https://github.com/bennytruett/MATH4753Spring26BENNYTRUETT
 BugReports: https://github.com/bennytruett/MATH4753Spring26BENNYTRUETT/issues
 RoxygenNote: 7.3.3
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
