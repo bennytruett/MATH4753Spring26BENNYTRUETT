@@ -6,6 +6,8 @@
 #'
 #' @returns displays the curve with a shaded area between the curve and x-axis from negative infinity to x = a
 #'          and calculate the area which is released to the command-line in a list
+#' @importFrom stats dnorm pnorm
+#' @importFrom graphics curve polygon
 #' @export
 #'
 #' @examples

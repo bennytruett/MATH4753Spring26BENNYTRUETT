@@ -6,6 +6,8 @@
 #'
 #' @returns the number of tickets to be sold, displays a graph of two plots showing
 #' the discrete and continuous distributions of the problem, as well as a named list of each variable
+#' @importFrom stats qbinom qnorm pbinom pnorm
+#' @importFrom graphics abline par
 #' @export
 #'
 #' @examples

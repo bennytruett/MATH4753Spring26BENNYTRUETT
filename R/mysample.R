@@ -5,6 +5,7 @@
 #' @param time the amount of time before a new graph is made, aka how long between each frame
 #'
 #' @returns iter number of bar plots of each sample
+#' @importFrom grDevices  rainbow
 #' @export
 #'
 #' @examples

@@ -6,6 +6,7 @@
 #' @param ylab y label
 #'
 #' @returns A sophisticated plot
+#' @importFrom graphics abline barplot curve hist layout mtext par polygon
 #' @export
 #'
 #' @examples
