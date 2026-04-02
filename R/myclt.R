@@ -10,7 +10,7 @@
 #' @export
 #'
 #' @examples
-#' w=myclt(n=10,iter=10000
+#' myclt(n=10,iter=10000)
 myclt=function(n,iter,a=0,b=5){
   y=runif(n*iter,a,b)
   data=matrix(y,nr=n,nc=iter,byrow=TRUE)
