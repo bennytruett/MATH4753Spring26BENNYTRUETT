@@ -23,5 +23,5 @@ also creates a histogram with this vector
 My Central Limit Function
 }
 \examples{
-w=myclt(n=10,iter=10000
+myclt(n=10,iter=10000)
 }
