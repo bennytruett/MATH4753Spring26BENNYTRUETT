@@ -17,7 +17,7 @@ myboot2(iter = 10000, x, fun = "mean", alpha = 0.05, cx = 1.5, ...)
 
 \item{cx}{for character size for text in graph, default is 1.5}
 
-\item{...}{}
+\item{...}{any hist parameters to customize}
 }
 \value{
 a graph with the point estimate with a 1 - alpha bootstrap interval

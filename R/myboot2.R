@@ -5,7 +5,7 @@
 #' @param fun the function to be applied, default is mean
 #' @param alpha alpha, default is 0.05
 #' @param cx for character size for text in graph, default is 1.5
-#' @param ...
+#' @param ... any hist parameters to customize
 #'
 #' @returns a graph with the point estimate with a 1 - alpha bootstrap interval
 #' as well as a list of all the variables used
